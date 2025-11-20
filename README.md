@@ -27,7 +27,7 @@ The main dashboard consists of two primary charts:
 2.  **Efficiency Over Time**
     Titled "Energy Efficiency of Housing by Property Type in 5-Year Periods from 2013 to 2023" , this chart tracks the change in energy efficiency scores for each of the four main property types.
 
-## How to Use This Repository
+## How to Use
 
 You have a few options for viewing this project:
 
